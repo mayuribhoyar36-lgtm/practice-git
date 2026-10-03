@@ -1,6 +1,6 @@
 a = 10
 b = 20
 
-result = a + b
+result = a * b
 
-print("Addition =", result)
+print("Multipication =", result)
